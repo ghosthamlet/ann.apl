@@ -4,3 +4,4 @@
       i ← 0
       e ← 2.718281828459045
       :While i < 10000 ⋄ i ← i + 1 ⋄ d ← l0 +.× syn0 ⋄ l1 ← 1 ÷ 1 + e * 0 - d ⋄ l1_err ← y - l1 ⋄ l1_delta ← l1_err × l1 × 1 - l1 ⋄ syn0 ← syn0 + (⍉ l0) +.× l1_delta ⋄ :EndWhile
+      l1
