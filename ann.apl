@@ -1,8 +1,8 @@
 ﻿
       ⍝ some operator can't work in NARS2000 like ⍣
-      ⍝ use online APL:
-      ⍝ http://tryapl.org/
+      ⍝ use online APL, run line by line:
       ⍝ https://plj541.github.io/APL.js/
+      ⍝ http://tryapl.org/
 
       l0 ← 4 3 ⍴ 0 0 1  0 1 1  1 0 1  1 1 1
       y ← 4 1 ⍴ 0 0 1 1
