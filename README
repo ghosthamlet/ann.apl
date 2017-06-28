@@ -2,8 +2,12 @@
 APL Ports of the Python examples found at http://iamtrask.github.io/2015/07/12/basic-python-network/
 This is just a very simple demo, not library or framework.
 
-downlowd apl: http://www.nars2000.org
-parse ann.apl code one line a time
+some operator can't work in NARS2000,
+use online APL,
+run ann.apl code line by line
+https://plj541.github.io/APL.js/
+http://tryapl.org/
+
 
 Relate probjects:
 https://github.com/flouc001/Simple-APL-Neural
